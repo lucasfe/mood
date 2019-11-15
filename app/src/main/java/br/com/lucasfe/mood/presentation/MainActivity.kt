@@ -1,7 +1,8 @@
-package br.com.lucasfe.mood
+package br.com.lucasfe.mood.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import br.com.lucasfe.mood.R
 
 class MainActivity : AppCompatActivity() {
 
