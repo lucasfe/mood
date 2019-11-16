@@ -1,6 +1,7 @@
 Twitter Mood (alpha)
 =========================
-[![CircleCI](https://circleci.com/gh/lucasfe/mood.svg?style=svg)](https://circleci.com/gh/lucasfe/mood)
+[![CircleCI](https://circleci.com/gh/lucasfe/mood.svg?style=shield)](https://circleci.com/gh/lucasfe/mood)
+
 
 Introduction
 ------------
